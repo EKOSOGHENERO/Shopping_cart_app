@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:new_flutter_app/constants.dart';
-import 'package:new_flutter_app/model/product_model.dart';
+import 'package:shopping_cart_app/constants.dart';
+import 'package:shopping_cart_app/model/product_model.dart';
 
 class DetailScreen extends StatefulWidget {
   final Product product;

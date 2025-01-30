@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:new_flutter_app/screens/homescreen.dart';
+import 'package:shopping_cart_app/screens/homescreen.dart';
 
 class InitialScreen extends StatelessWidget {
   const InitialScreen({super.key});

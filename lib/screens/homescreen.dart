@@ -1,8 +1,8 @@
 // ignore_for_file: prefer_const_constructors
 
 import 'package:flutter/material.dart';
-import 'package:new_flutter_app/model/product_model.dart';
-import 'package:new_flutter_app/screens/components/productSection/detail_screen.dart';
+import 'package:shopping_cart_app/model/product_model.dart';
+import 'package:shopping_cart_app/screens/components/productSection/detail_screen.dart';
 
 //import 'components/banner.dart';
 import 'components/bar_section.dart';
